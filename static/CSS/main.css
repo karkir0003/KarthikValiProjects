@@ -6,7 +6,7 @@
 
 header
 {
-    background-image: url(headerimage.jpg);
+    background-image: url('/static/img/headerimage.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
